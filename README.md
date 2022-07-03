@@ -12,3 +12,7 @@ Article For Few Patterns of distributed architecture :
 
 https://www.educative.io/blog/distributed-system-design-patterns
 
+
+
+ElasticSearch : NoSql Distrbuted DB  , build on top on Lucene Search Engine . 
+https://www.youtube.com/watch?v=axDPPKiN7bw
